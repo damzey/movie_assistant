@@ -1,0 +1,1 @@
+For this project, I decided to create a Movie Assistant code. In this project, there is a list of dictionaries containing movie information. The user needs to choose the genre of movie they would like to watch from a list, and this will return all the movies that match the choice of their genre. The 
